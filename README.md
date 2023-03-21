@@ -1,8 +1,7 @@
-# Getting Started with Create React App
-
-Welcome to Cheung Bro's Website
+# Welcome to Cheung Bro's Website
 
 This project was created with Create React App
+
 ## Available Scripts
 
 In the project directory, you can run:
